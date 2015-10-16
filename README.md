@@ -1,2 +1,2 @@
 # cPanel Bitbucket Backup
-Shell script for commit changes in files and database, and push to Bitbucket, automatically via cPanel cron job.
+Shell script for auto commit changes in files or database, and push to Bitbucket, triggered by cPanel cron job.
